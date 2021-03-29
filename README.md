@@ -46,4 +46,5 @@ Gibt man nur normalen Text ein, so wie dieser, wird dieser auch als normaler Tex
 ...können erzeugt werden, indem der [Linktext](https://google.com) in eckige Klammern gefolgt vom eigentlichen Link in runde Klammern gesetzt wird.
 ##
 Es gibt noch viel mehr Formatierungsmöglichkeiten, welche unter folgendem [LINK](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) zu finden sind
-#
+##
+Änderungen von TLPE-frank
